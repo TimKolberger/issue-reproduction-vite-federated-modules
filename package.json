@@ -1,0 +1,16 @@
+{
+  "name": "federation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "pnpm run -r build",
+    "preview": "pnpm run --parallel preview"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
